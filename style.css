@@ -58,3 +58,11 @@ header.startup h1 {
   cursor: pointer;
 }
   
+.pond  {
+
+  display: flex;
+  justify-content: center;
+
+
+
+}  
